@@ -8,7 +8,7 @@ The system is specifically designed for aquarium sump installations and includes
 
 Through its built-in web interface, users can monitor water levels remotely and configure operating parameters without modifying the source code. This helps aquarium owners detect abnormal sump conditions early and maintain consistent water levels for reliable operation of filtration and top-off systems.
 
-Features
+## Features
 
 Non-contact water level measurement
 Waterproof DFRobot A02YYUW ultrasonic sensor
@@ -23,7 +23,7 @@ PCB Design files ready to print
 Designed specifically for aquarium sump installations
 Open-source hardware and software
 
-Hardware
+## Hardware
 
 ESP32 development board
 DFRobot A02YYUW waterproof ultrasonic sensor
@@ -32,7 +32,7 @@ Piezo buzzer
 Custom PCB
 3D-printed enclosure and sensor bracket
 
-Applications
+## Applications
 
 Aquarium sump monitoring
 Auto top-off (ATO) monitoring
