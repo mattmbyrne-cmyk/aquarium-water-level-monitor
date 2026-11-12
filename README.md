@@ -1,4 +1,5 @@
 # aquarium-water-level-monitor
+hero.png
 
 An open-source aquarium sump water level monitoring system built around the DFRobot A02YYUW waterproof ultrasonic sensor and an ESP32 microcontroller. The project provides reliable, non-contact water level measurement while keeping all electronics safely away from the water.
 
