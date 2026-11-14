@@ -41,3 +41,8 @@ Auto top-off (ATO) monitoring
 Reservoir level monitoring
 Water storage tank level monitoring
 General non-contact liquid level measurement
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
