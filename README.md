@@ -130,6 +130,28 @@ General non-contact liquid level measurement
   </tr>
 </table>
 
+## OpenSCAD Source Files
+
+The OpenSCAD source files are included in the OpenSCAD directory, allowing you to modify the enclosure or mounting system to suit your specific requirements.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/cad_renderings/cad_enclosure_front.png" width="300"><br>
+      Front View
+    </td>
+    <td align="center">
+      <img src="images/cad_renderings/cad_enclosure_back.png" width="300"><br>
+      Back View
+    </td>
+    <td align="center">
+      <img src="images/cad_renderings/cad_sensor_mount.png" width="300"><br>
+      Lid
+    </td>
+   </tr>
+</table>
+
+
 ## 🛒 Bill of Materials
 
 | Item | Purchase Link |
