@@ -45,27 +45,16 @@ General non-contact liquid level measurement
 ## 🛒 Shopping List
 
 | Item | Purchase Link |
-
 |---|---|
-
 | ESP32 ESP-WROOM-32 Development Board WiFi + Bluetooth | [Amazon](https://link.amazon/B0espH4Ix) |
-
 | PCB Board | [PCBWay](https://www.pcbway.com/) |
-
 | Right Angle USB C Flat Extension Cable | [Amazon](https://link.amazon/B0bMhexuD) |
-
 | Waterproof Ultrasonic Ranging Sensor | [Amazon](https://link.amazon/B0bCV0Zxt) |
-
 | LED Light Kit Box - 5 Colors | [Amazon](https://link.amazon/B04djoovX) |
-
 | 220 Ohm Resistor 1/2W (0.5 Watt) | [Amazon](https://link.amazon/B0dC10wjN) |
-
 | DC 3-12V Active Electronic Buzzer | [Amazon](https://link.amazon/B0bWC1ZQ9) |
-
 | JST Connector Kit 2.0mm - 2 and 4 Pin | [Amazon](https://link.amazon/B0aqEWpW9) |
-
 | Self Tapping Screw M2x4 | [Amazon](https://link.amazon/B039ca9Il) |
-
 | Bambu Lab PLA 3D Printer Filament 1.75mm RFID | [Amazon](https://link.amazon/B09fCrKce) |
 
 > **Affiliate Disclosure:** Some of the links above are Amazon affiliate links. As an Amazon Associate, I may earn from qualifying purchases at no additional cost to you.
