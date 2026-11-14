@@ -21,7 +21,7 @@ Through its built-in web interface, users can monitor water levels remotely and 
 - Audible low-water-level alarm
 - Custom 3D-printable electronics enclosure
 - Custom 3D-printable aquarium glass mounting bracket
-- PCB manufacturing files included
+- Printed Circuit Board (PCB) manufacturing files included
 - Optimized for aquarium sump installations
 - Fully open-source hardware and software
 
@@ -31,9 +31,7 @@ Through its built-in web interface, users can monitor water levels remotely and 
 - DFRobot A02YYUW waterproof ultrasonic sensor
 - RGB status LED or discrete red, yellow, and green LEDs
 - Piezo buzzer for audible alarms
-- Custom PCB
-- 3D-printed controller enclosure
-- 3D-printed aquarium glass mounting bracket
+- Custom Printed Circuit Board (PCB)
 
 ## Applications
 
@@ -112,7 +110,7 @@ The PCB was designed using KiCad 10.0 Community Edition. All project source file
   </tr>
 </table>
 
-## 3D Printed Parts
+## 3D Printed Components
 
 The enclosure and mounting components were printed on a Bambu Lab P1S using Bambu Lab Basic PLA, with Bambu Lab Support Material employed for the interface layers to improve surface quality and ease support removal. Both the STL files and the original 3MF project files are included in the STL directory, enabling straightforward printing and easy customization of print settings.
 
@@ -176,7 +174,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 > **Affiliate Disclosure:** Some of the links above are Amazon affiliate links. As an Amazon Associate, I may earn from qualifying purchases at no additional cost to you.
 
-# Quick Start
+# Quick Start Guide
 
 1. Order the PCB from your preferred manufacturer. The Gerber files included in this repository are production-ready and can be uploaded directly to services such as JLCPCB or PCBWay.
 
@@ -206,7 +204,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 The Aquarium Water Level Monitor is now configured and actively monitoring your sump water level. Visual and audible alerts will be triggered whenever the water level falls below your configured minimum threshold, helping you detect evaporation, pump failures, and other water level issues before they become critical.
 
-## Support This Project
+## Please Support This Project
 
 If my work has saved you time, taught you something new, or inspired your own project, consider buying me a coffee. Your support directly helps fund future development and new projects.
 
