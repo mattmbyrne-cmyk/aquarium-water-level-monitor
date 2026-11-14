@@ -138,21 +138,21 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
   <tr>
     <td align="center">
       <img src="images/cad_renderings/cad_enclosure_front.png" width="200"><br>
-      Front View
+      OpenSCAD Front View
     </td>
     <td align="center">
       <img src="images/cad_renderings/cad_enclosure_back.png" width="200"><br>
-      Back View
+      OpenSCAD Back View
     </td>
     <td align="center">
       <img src="images/cad_renderings/cad_sensor_mount.png" width="200"><br>
-      Lid
+      OpenSCAD Mounting
     </td>
    </tr>
 </table>
 
 
-## 🛒 Bill of Materials
+## 🛒 Bill of Materials and Links to Purchase
 
 | Item | Purchase Link |
 |---|---|
