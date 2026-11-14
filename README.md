@@ -65,7 +65,7 @@ General non-contact liquid level measurement
   </tr>
 </table>
 
-## Assembled
+## Assembled Project
 
 <table align="center">
   <tr>
@@ -85,6 +85,8 @@ General non-contact liquid level measurement
 </table>
 
 ## PCB
+
+The PCB was designed using KiCad 10.0 Community Edition. All project source files are included in the PCB directory, allowing you to modify and adapt the design to suit your specific requirements.
 
 <table align="center">
   <tr>
@@ -108,6 +110,8 @@ General non-contact liquid level measurement
 </table>
 
 ## 3D Printed Parts
+
+The enclosure and mounting components were printed on a Bambu Lab P1S using Bambu Lab Basic PLA, with Bambu Lab Support Material employed for the interface layers to improve surface quality and ease support removal. Both the STL files and the original 3MF project files are included in the STL directory, enabling straightforward printing and easy customization of print settings.
 
 <table align="center">
   <tr>
