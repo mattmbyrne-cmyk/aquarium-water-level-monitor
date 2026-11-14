@@ -47,20 +47,15 @@ General non-contact liquid level measurement
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/assembled/water_level_monitor.jpg" width="400"><br>
+      <img src="images/assembled/water_level_monitor.jpg" width="300"><br>
       Water Level Monitor
     </td>
     <td align="center">
-      <img src="images/assembled/pcb_assembled.png" width="400"><br>
+      <img src="images/assembled/pcb_assembled.png" width="300"><br>
       Assembled Componets
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="images/assembled/water_level_monitor.jpg" width="45%" />
-  <img src="images/assembled/pcb_assembled.png" width="45%" />
-</p>
 
 ## PCB
 
