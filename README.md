@@ -78,7 +78,7 @@ General non-contact liquid level measurement
       Back View
     </td>
     <td align="center">
-      <img src="images/assembled/pcb_assembled.png" width="300"><br>
+      <img src="images/assembled/pcb_assembled.png" width="200"><br>
       Assembled Componets
     </td>
   </tr>
