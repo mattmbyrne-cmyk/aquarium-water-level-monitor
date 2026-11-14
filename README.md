@@ -12,36 +12,30 @@ Through its built-in web interface, users can monitor water levels remotely and 
 
 ## Features
 
-- Non-contact water level measurement
-- Waterproof DFRobot A02YYUW ultrasonic sensor
-- ESP32 controller with Wi-Fi connectivity
 - Built-in web interface for monitoring and configuration
 - User-configurable high and low level alarms with millimeter precision
-- Green, yellow, and red LED status indicators
+- Green, yellow, and red LED water level status indicators
 - Audible low-water-level alarm
-- Custom 3D-printable electronics enclosure
-- Custom 3D-printable aquarium glass mounting bracket
-- Printed Circuit Board (PCB) manufacturing files included
-- Optimized for aquarium sump installations
+- Optimized for aquarium tank or sump installations
+- Non-contact water level measurement
+- Waterproof DFRobot A02YYUW ultrasonic sensor
 - Fully open-source hardware and software
 
 ## Hardware
 
 - ESP32 development board
 - DFRobot A02YYUW waterproof ultrasonic sensor
-- RGB status LED or discrete red, yellow, and green LEDs
+- RGB LEDs for water level status red, yellow, and green
 - Piezo buzzer for audible alarms
 - Custom Printed Circuit Board (PCB)
 
 ## Applications
 
-- ESP32 development board
-- DFRobot A02YYUW waterproof ultrasonic sensor
-- RGB status LED or discrete red, yellow, and green LEDs
-- Piezo buzzer for audible alarms
-- Custom PCB
-- 3D-printed controller enclosure
-- 3D-printed aquarium glass mounting bracket
+- Aquarium sump water level monitoring
+- Auto top-off (ATO) system monitoring
+- Freshwater reservoir monitoring
+- Water storage tank level monitoring
+- General-purpose non-contact liquid level measurement
 
 ## Web Interface
 
