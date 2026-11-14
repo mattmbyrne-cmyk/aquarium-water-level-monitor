@@ -12,35 +12,38 @@ Through its built-in web interface, users can monitor water levels remotely and 
 
 ## Features
 
-Non-contact water level measurement
-Waterproof DFRobot A02YYUW ultrasonic sensor
-ESP32-based controller with Wi-Fi connectivity
-Built-in web interface for monitoring and configuration
-User-configurable high and low water level thresholds (millimeter resolution)
-Green, yellow, and red LED status indication
-Audible low-water-level alarm
-Custom 3D-printable controller enclosure
-Custom 3D-printable aquarium glass mounting bracket
-PCB Design files ready to print
-Designed specifically for aquarium sump installations
-Open-source hardware and software
+- Non-contact water level measurement
+- Waterproof DFRobot A02YYUW ultrasonic sensor
+- ESP32 controller with Wi-Fi connectivity
+- Built-in web interface for monitoring and configuration
+- User-configurable high and low level alarms with millimeter precision
+- Green, yellow, and red LED status indicators
+- Audible low-water-level alarm
+- Custom 3D-printable electronics enclosure
+- Custom 3D-printable aquarium glass mounting bracket
+- PCB manufacturing files included
+- Optimized for aquarium sump installations
+- Fully open-source hardware and software
 
 ## Hardware
 
-ESP32 development board
-DFRobot A02YYUW waterproof ultrasonic sensor
-RGB or individual status LEDs
-Piezo buzzer
-Custom PCB
-3D-printed enclosure and sensor bracket
+- ESP32 development board
+- DFRobot A02YYUW waterproof ultrasonic sensor
+- RGB status LED or discrete red, yellow, and green LEDs
+- Piezo buzzer for audible alarms
+- Custom PCB
+- 3D-printed controller enclosure
+- 3D-printed aquarium glass mounting bracket
 
 ## Applications
 
-Aquarium sump monitoring
-Auto top-off (ATO) monitoring
-Reservoir level monitoring
-Water storage tank level monitoring
-General non-contact liquid level measurement
+- ESP32 development board
+- DFRobot A02YYUW waterproof ultrasonic sensor
+- RGB status LED or discrete red, yellow, and green LEDs
+- Piezo buzzer for audible alarms
+- Custom PCB
+- 3D-printed controller enclosure
+- 3D-printed aquarium glass mounting bracket
 
 ## Web Interface
 
@@ -84,7 +87,7 @@ General non-contact liquid level measurement
   </tr>
 </table>
 
-## PCB
+## Printed Circuit Boad (PCB)
 
 The PCB was designed using KiCad 10.0 Community Edition. All project source files are included in the PCB directory, allowing you to modify and adapt the design to suit your specific requirements.
 
