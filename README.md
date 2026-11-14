@@ -135,7 +135,7 @@ General non-contact liquid level measurement
 | Item | Purchase Link |
 |---|---|
 | ESP32 ESP-WROOM-32 Development Board WiFi + Bluetooth | [Amazon](https://link.amazon/B0espH4Ix) |
-| PCB Board - Send the  gerbers files in the PCB folder | [PCBWay](https://www.pcbway.com/) |
+| PCB Board - Send the  gerbers files in the PCB folder | JLCPCB or PCBWay |
 | Right Angle USB C Flat Extension Cable | [Amazon](https://link.amazon/B0bMhexuD) |
 | Waterproof Ultrasonic Ranging Sensor | [Amazon](https://link.amazon/B0bCV0Zxt) |
 | LED Light Kit Box - 5 Colors | [Amazon](https://link.amazon/B04djoovX) |
