@@ -130,7 +130,7 @@ General non-contact liquid level measurement
   </tr>
 </table>
 
-## 🛒 Shopping List
+## 🛒 Bill of Materials
 
 | Item | Purchase Link |
 |---|---|
