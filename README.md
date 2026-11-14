@@ -42,6 +42,17 @@ Reservoir level monitoring
 Water storage tank level monitoring
 General non-contact liquid level measurement
 
+## Assembled
+
+<p align="center">
+  <img src="images/assembled/water_level_monitor.jpg" width="45%" />
+  <img src="images/assembled/pcb_assembled.png" width="45%" />
+</p>
+
+## PCB
+
+## 3D Printed Parts
+
 ## 🛒 Shopping List
 
 | Item | Purchase Link |
