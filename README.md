@@ -198,7 +198,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 The Aquarium Water Level Monitor is now configured and actively monitoring your sump water level. Visual and audible alerts will be triggered whenever the water level falls below your configured minimum threshold, helping you detect evaporation, pump failures, and other water level issues before they become critical.
 
-## Please Support This Project
+## Support - Buy Me a Coffee Please
 
 If my work has saved you time, taught you something new, or inspired your own project, consider buying me a coffee. Your support directly helps fund future development and new projects.
 
