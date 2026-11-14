@@ -1,0 +1,367 @@
+(session "Water_Level_Project.ses"
+  (base_design "Water_Level_Project.dsn")
+  (placement
+    (resolution um 10)
+    (component "MountingHole:MountingHole_3.2mm_M3"
+      (place REF** 325000 -890000 front 0)
+      (place "REF**_1" 1235000 -890000 front 0)
+      (place "REF**_2" 1235000 -200000 front 0)
+      (place "REF**_3" 325000 -200000 front 0)
+    )
+    (component "LED_THT:LED_D5.0mm"
+      (place D3 700000 -240000 front 270)
+      (place D2 555000 -240000 front 270)
+    )
+    (component "LED_THT:LED_D5.0mm::1"
+      (place D1 415000 -242250 front 270)
+      (place D6 1130000 -239600 front 270)
+      (place D5 985000 -240000 front 270)
+      (place D4 845000 -240000 front 270)
+    )
+    (component "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+      (place R1 415000 -370000 front 270)
+      (place R2 558000 -370000 front 270)
+      (place R4 844000 -370000 front 270)
+      (place R6 1130000 -370000 front 270)
+    )
+    (component "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+      (place J1 1130000 -751900 front 0)
+    )
+    (component "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+      (place J2 1130000 -627250 front 0)
+    )
+    (component "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal::1"
+      (place R3 701000 -370000 front 270)
+      (place R5 987000 -370000 front 270)
+    )
+    (component "Water_Level_PCB:ESP32_DevKit_30Pin_25.2mm"
+      (place U1 765000 -730000 front 90)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version "10.0.7")
+    )
+    (library_out 
+      (padstack "Via[0-1]_600:300_um"
+        (shape
+          (circle F.Cu 6000 0 0)
+        )
+        (shape
+          (circle B.Cu 6000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net "Net-(D1-A)"
+        (wire
+          (path B.Cu 2000
+            415000 -370000
+            415000 -267650
+          )
+        )
+      )
+      (net GND
+        (wire
+          (path F.Cu 2000
+            555000 -240000
+            700000 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            555000 -240000
+            542983 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            415000 -242250
+            540733 -242250
+            542983 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            985000 -240000
+            997017 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            1130000 -239600
+            997417 -239600
+            997017 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            845000 -240000
+            700000 -240000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            845000 -240000
+            985000 -240000
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            1130000 -652650
+            1142017 -640633
+            1142017 -259878
+            1133756 -251617
+            1130000 -251617
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            1130000 -652650
+            1130000 -751900
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            1130000 -239600
+            1130000 -251617
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            1130000 -751900
+            1130000 -777300
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            555000 -240000
+            555000 -252017
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            587200 -604000
+            575183 -604000
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            575183 -604000
+            542983 -571800
+            542983 -260278
+            551244 -252017
+            555000 -252017
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            612600 -604000
+            612600 -856000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            612600 -604000
+            587200 -604000
+          )
+        )
+      )
+      (net "Net-(D2-A)"
+        (wire
+          (path B.Cu 2000
+            558000 -370000
+            555000 -367000
+            555000 -265400
+          )
+        )
+      )
+      (net "Net-(D3-A)"
+        (wire
+          (path B.Cu 2000
+            701000 -370000
+            700000 -369000
+            700000 -265400
+          )
+        )
+      )
+      (net "Net-(D4-A)"
+        (wire
+          (path B.Cu 2000
+            844000 -370000
+            845000 -369000
+            845000 -265400
+          )
+        )
+      )
+      (net "Net-(D5-A)"
+        (wire
+          (path B.Cu 2000
+            987000 -370000
+            985000 -368000
+            985000 -265400
+          )
+        )
+      )
+      (net "Net-(D6-A)"
+        (wire
+          (path B.Cu 2000
+            1130000 -370000
+            1130000 -265000
+          )
+        )
+      )
+      (net "/Sensor TX"
+        (wire
+          (path F.Cu 2000
+            714200 -856000
+            726217 -856000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            726217 -856000
+            726217 -849991
+            748108 -828100
+            1130000 -828100
+          )
+        )
+      )
+      (net "Net-(J2-Pin_1)"
+        (wire
+          (path B.Cu 2000
+            1130000 -627250
+            1130000 -638767
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            942800 -856000
+            942800 -823088
+            1127121 -638767
+            1130000 -638767
+          )
+        )
+      )
+      (net "Net-(U1-GPIO25)"
+        (wire
+          (path B.Cu 2000
+            765000 -604000
+            777017 -604000
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            777017 -604000
+            777017 -538583
+            844000 -471600
+          )
+        )
+      )
+      (net "Net-(U1-GPIO26)"
+        (wire
+          (path B.Cu 2000
+            739600 -604000
+            739600 -510200
+            701000 -471600
+          )
+        )
+      )
+      (net "Net-(U1-GPIO27)"
+        (wire
+          (path B.Cu 2000
+            714200 -604000
+            702183 -604000
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            702183 -604000
+            702183 -597992
+            575791 -471600
+            558000 -471600
+          )
+        )
+      )
+      (net "Net-(U1-GPIO14)"
+        (wire
+          (path F.Cu 2000
+            688800 -604000
+            676783 -604000
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            415000 -471600
+            447427 -504027
+            582917 -504027
+            676783 -597893
+            676783 -604000
+          )
+        )
+      )
+      (net "Net-(U1-GPIO32)"
+        (wire
+          (path B.Cu 2000
+            891833 -535709
+            891848 -535724
+            1065876 -535724
+            1130000 -471600
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            815800 -604000
+            815800 -589983
+          )
+        )
+        (wire
+          (path B.Cu 1500
+            824221 -589998
+            837544 -589998
+            891833 -535709
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            815800 -589983
+            824206 -589983
+            824221 -589998
+          )
+        )
+      )
+      (net "Net-(U1-GPIO33)"
+        (wire
+          (path B.Cu 2000
+            790400 -604000
+            802417 -604000
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            926893 -531707
+            987000 -471600
+          )
+        )
+        (wire
+          (path B.Cu 1500
+            856502 -531707
+            926893 -531707
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            802417 -604000
+            802417 -585792
+            856502 -531707
+          )
+        )
+      )
+    )
+  )
+)
