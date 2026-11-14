@@ -47,7 +47,7 @@ General non-contact liquid level measurement
 <table align="center">
   <tr>
     <td align="center">
-      <img src="screenshots/configuration_webpage.jpg" width="300"><br>
+      <img src="screenshots/configuration.png" width="300"><br>
       Configuration Page
     </td>
     <td align="center">
