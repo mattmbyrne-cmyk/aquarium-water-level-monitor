@@ -42,6 +42,29 @@ Reservoir level monitoring
 Water storage tank level monitoring
 General non-contact liquid level measurement
 
+## Web Interface
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/configuration_webpage.jpg" width="300"><br>
+      Configuration Page
+    </td>
+    <td align="center">
+      <img src="screenshots/status_full.jpg" width="300"><br>
+      Tank Full
+    </td>
+    <td align="center">
+      <img src="screenshots/status_half.jpg" width="300"><br>
+      Tank Half Full
+    </td>
+    <td align="center">
+      <img src="screenshots/status_empty_buzzer_on.jpg" width="300"><br>
+      Tank Empty - Buzzer On
+    </td>
+  </tr>
+</table>
+
 ## Assembled
 
 <table align="center">
