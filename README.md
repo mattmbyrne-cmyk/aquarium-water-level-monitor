@@ -147,6 +147,36 @@ General non-contact liquid level measurement
 
 > **Affiliate Disclosure:** Some of the links above are Amazon affiliate links. As an Amazon Associate, I may earn from qualifying purchases at no additional cost to you.
 
+# Quick Start
+
+1. Order the PCB from your preferred manufacturer. The Gerber files included in this repository are production-ready and can be uploaded directly to services such as JLCPCB or PCBWay.
+
+2. Assemble the PCB and install all components, including the ESP32, DFRobot A02YYUW ultrasonic sensor, LEDs, and buzzer.
+
+3. Upload the firmware to the ESP32 using the Arduino IDE via the USB-C port.
+
+4. Power on the device. Using your phone, tablet, or computer, connect to the Wi-Fi hotspot named **Watersensor.local**.
+
+5. The captive portal should open automatically. If it does not, open a web browser and navigate to:
+
+   http://Watersensor.local
+
+6. Enter your home Wi-Fi SSID and password.
+
+7. Configure the water level thresholds in millimetres. The default settings are:
+   - Low Water Level: 40 mm
+   - High Water Level: 140 mm
+
+8. Click **Save**. The device will reboot and automatically connect to your home Wi-Fi network.
+
+9. Once connected, the web interface can be accessed at any time from any device on your network by visiting:
+
+   http://Watersensor.local
+
+## You're Ready!
+
+The Aquarium Water Level Monitor is now configured and actively monitoring your sump water level. Visual and audible alerts will be triggered whenever the water level falls below your configured minimum threshold, helping you detect evaporation, pump failures, and other water level issues before they become critical.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
