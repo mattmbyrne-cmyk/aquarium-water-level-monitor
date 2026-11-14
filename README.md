@@ -89,11 +89,11 @@ General non-contact liquid level measurement
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/3d_printed_parts/enclosure_case_front.png" width="300"><br>
+      <img src="images/3d_printed_parts/enclosure_front_case.png" width="300"><br>
       Front View
     </td>
     <td align="center">
-      <img src="images/3d_printed_parts/enclosure_front_case.png" width="300"><br>
+      <img src="images/3d_printed_parts/enclosure_case_back.png" width="300"><br>
       Back View
     </td>
     <td align="center">
