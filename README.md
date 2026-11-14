@@ -48,11 +48,11 @@ General non-contact liquid level measurement
   <tr>
     <td align="center">
       <img src="images/assembled/water_level_monitor.jpg" width="300"><br>
-      Water Level Monitor
+      Front View
     </td>
     <td align="center">
       <img src="images/assembled/enclosure_back.png" width="300"><br>
-      Water Level Monitor
+      Back View
     </td>
     <td align="center">
       <img src="images/assembled/pcb_assembled.png" width="300"><br>
