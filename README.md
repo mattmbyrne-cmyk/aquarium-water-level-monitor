@@ -86,6 +86,23 @@ General non-contact liquid level measurement
 
 ## 3D Printed Parts
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/3d_printed_parts/enclosure_front.png" width="300"><br>
+      Front View
+    </td>
+    <td align="center">
+      <img src="images/3d_printed_parts/enclosure_back.png" width="300"><br>
+      Back View
+    </td>
+    <td align="center">
+      <img src="images/3d_printed_parts/sensor_mount.png" width="300"><br>
+      Sensor Mount
+    </td>
+  </tr>
+</table>
+
 ## 🛒 Shopping List
 
 | Item | Purchase Link |
