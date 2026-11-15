@@ -106,7 +106,7 @@ The PCB was designed using KiCad 10.0 Community Edition. All project source file
 
 ## 3D Printed Components
 
-The enclosure and mounting components were printed on a Bambu Lab P1S using Bambu Lab Basic PLA, with Bambu Lab Support Material employed for the interface layers to improve surface quality and ease support removal. Both the STL files and the original 3MF project files are included in the STL directory, enabling straightforward printing and easy customization of print settings.
+The enclosure and mounting components were printed on a Bambu Lab P1S using Bambu Lab Basic PLA, with Polymaker PolySupport Breakaway Filament employed for the interface layers to improve surface quality and ease support removal. Both the STL files and the original 3MF project files are included in the STL directory, enabling straightforward printing and easy customization of print settings.
 
 <table align="center">
   <tr>
@@ -165,6 +165,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 | JST Connector Kit 2.0mm - 2 and 4 Pin | [Amazon](https://link.amazon/B0aqEWpW9) |
 | Self Tapping Screw M2x4 | [Amazon](https://link.amazon/B039ca9Il) |
 | Bambu Lab PLA 3D Printer Filament 1.75mm RFID | [Amazon](https://link.amazon/B09fCrKce) |
+| Polymaker PolySupport Breakaway Filament | [Amazon](https://link.amazon/B0hEaRlfZ) |
 
 > **Affiliate Disclosure:** Some of the links above are Amazon affiliate links. As an Amazon Associate, I may earn from qualifying purchases at no additional cost to you.
 
