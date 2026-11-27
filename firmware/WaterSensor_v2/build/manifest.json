@@ -1,0 +1,23 @@
+{
+  "name": "Aquarium Water Level Monitor",
+  "version": "2.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "WaterSensor_v2.ino.bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "WaterSensor_v2.ino.partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "WaterSensor_v2.ino.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}
