@@ -209,6 +209,10 @@ If my work has saved you time, taught you something new, or inspired your own pr
 
 Every contribution helps fund prototyping, PCB manufacturing, testing, and documentation.
 
+## Troubleshooting Tips
+In Arduino IDE, if you are using the same board as I listed in the hardware section, select Board Type ESP32 Dev Module
+If the Captive Portal doesn't display on iPhones, in the WiFi Properties, disable Limit IP Tracking 
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
