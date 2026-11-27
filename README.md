@@ -177,7 +177,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 2. Assemble the PCB and install all components, including the ESP32, DFRobot A02YYUW ultrasonic sensor, LEDs, and buzzer.
 
-3. Upload the firmware to the ESP32 using the Arduino IDE via the USB-C port.
+3. Upload the firmware to the ESP32 using the Arduino IDE via the USB-C port, or using the Web Flash link at the bottom of this page.
 
 4. Power on the device. Using your phone, tablet, or computer, connect to the Wi-Fi hotspot named **Watersensor.local**.
 
@@ -196,6 +196,10 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 9. Once connected, the web interface can be accessed at any time from any device on your network by visiting:
 
    http://Watersensor.local
+
+## Web Flash Tool
+
+https://mattmbyrne-cmyk.github.io/aquarium-water-level-monitor/
 
 ## You're Ready!
 
