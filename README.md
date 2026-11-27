@@ -199,6 +199,8 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 ## Web Flash Tool
 
+For users who are not familiar with the Arduino IDE or compiling firmware, a Web Flash Tool is included. This allows you to quickly install the firmware onto your ESP32 development board directly from your web browser. Simply connect the ESP32 to your computer using a USB-C cable and follow the prompts to flash the firmware.
+
 https://mattmbyrne-cmyk.github.io/aquarium-water-level-monitor/
 
 ## You're Ready!
