@@ -179,11 +179,11 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 3. Upload the firmware to the ESP32 using the Arduino IDE via the USB-C port, or using the Web Flash link at the bottom of this page.
 
-4. Power on the device. Using your phone, tablet, or computer, connect to the Wi-Fi hotspot named **Watersensor.local**.
+4. Power on the device. Using your phone, tablet, or computer, connect to the Wi-Fi hotspot named **Watersensor2.local**.
 
 5. The captive portal should open automatically. If it does not, open a web browser and navigate to:
 
-   http://Watersensor.local
+   http://Watersensor2.local
 
 6. Enter your home Wi-Fi SSID and password.
 
@@ -195,7 +195,7 @@ The OpenSCAD source files are included in the OpenSCAD directory, allowing you t
 
 9. Once connected, the web interface can be accessed at any time from any device on your network by visiting:
 
-   http://Watersensor.local
+   http://Watersensor2.local
 
 ## Web Flash Tool
 
